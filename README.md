@@ -1,4 +1,4 @@
-# PGSI - Note del Primo Anno
+# 📝 PGSI - Note del Primo Anno
 
 Benvenuti nel repository delle note del primo anno del corso di Laurea in PGSI. Questo repository contiene materiale didattico, appunti, esercizi e risorse utili per gli studenti del primo anno.
 
@@ -21,4 +21,4 @@ Benvenuti nel repository delle note del primo anno del corso di Laurea in PGSI. 
 | LAB. REALTA' VIRTUALE E REALTA' AUMENTATA I | Comune a tutti i curricula | 3 | Secondo Semestre |
 | LABORATORIO DI BASI DI DATI | Comune a tutti i curricula | 3 | Secondo Semestre |
 | LABORATORIO RETI | Comune a tutti i curricula | 3 | Secondo Semestre |
-| LINGUA INGLESE | Comune a tutti i curricula | 3 | Secondo Semestre |
+| [LINGUA INGLESE](https://github.com/MrTartuf0/PGSI-notes/blob/year-1/inglese.md) | Comune a tutti i curricula | 3 | Secondo Semestre |

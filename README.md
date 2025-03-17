@@ -1,6 +1,6 @@
-# 💻 PSGI - Programmazione e Gestione di Sistemi Informatici
+![banner-dmi](https://github.com/user-attachments/assets/a652959a-f79f-4c08-b7ea-58c52182dfde)
 
-Benvenuto nel repository degli appunti per il corso di **Programmazione e Gestione di Sistemi Informatici (PSGI)**.
+Benvenuto nel repository degli appunti per il corso di **Programmazione e Gestione di Sistemi Informatici (PSGI) 💻**.
 
 ## Struttura del repository
 Il materiale è organizzato in rami (*branches*), ogni branch corrisponde all'anno di corso

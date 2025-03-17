@@ -2,7 +2,7 @@
 
 ## Descrizione del Corso
 
-Questo laboratorio si concentra sull'interazione uomo-computer (HCI). Il corso è puramente pratico e come esame sarà necessario esporre un progetto di design di un'interfaccia utente (UI) a scelta dello studente. Può essere un'applicazione, un sito web, un cruscotto per la macchina, o qualsiasi altra interfaccia uomo-macchina. Bisognerà descrivere e presentare il progetto al giorno dell'appello, descrivendo i casi d'uso e l'utente finale che utilizzerà l'interfaccia. Il corso vale 6 CFU.
+Questo laboratorio si concentra sull'interazione uomo-computer (HCI). Il corso è puramente pratico e come esame sarà necessario esporre un progetto di design di un'interfaccia utente (UI) a scelta dello studente. Può essere un'applicazione, un sito web, un cruscotto per la macchina, o qualsiasi altra interfaccia uomo-macchina. Bisognerà descrivere e presentare il progetto al giorno dell'appello, descrivendo i casi d'uso e l'utente finale che utilizzerà l'interfaccia. Il corso vale 3 CFU.
 
 ## Materiale Didattico
 

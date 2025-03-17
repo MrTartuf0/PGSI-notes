@@ -37,7 +37,7 @@ L'offerta formativa per l'anno accademico 2024/25 è la seguente:
 | LAB. REALTA' VIRTUALE E REALTA' AUMENTATA I | Comune a tutti i curricula | 3 | Secondo Semestre |
 | LABORATORIO DI BASI DI DATI | Comune a tutti i curricula | 3 | Secondo Semestre |
 | LABORATORIO RETI | Comune a tutti i curricula | 3 | Secondo Semestre |
-| LINGUA INGLESE | Comune a tutti i curricula | 3 | Secondo Semestre |
+| [LINGUA INGLESE](https://github.com/MrTartuf0/PGSI-notes/blob/year-1/inglese.md) | Comune a tutti i curricula | 3 | Secondo Semestre |
 
 ### [2° Anno](https://github.com/MrTartuf0/PGSI-notes/tree/year-2)
 | Insegnamento | Curriculum | CFU | Periodo |

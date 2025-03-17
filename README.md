@@ -26,14 +26,14 @@ L'offerta formativa per l'anno accademico 2024/25 è la seguente:
 |--------------|-------------|-----|---------|
 | ELEMENTI DI ARCHITETTURA DEGLI ELABORATORI E SISTEMI OPERATIVI | Comune a tutti i curricula | 6 | Primo Semestre |
 | LABORATORIO ARCHITETTURA DEGLI ELABORATORI | Comune a tutti i curricula | 3 | Primo Semestre |
-| [LABORATORIO HCI](https://github.com/MrTartuf0/PGSI-notes/blob/year-1/hci/lab_hci.md) | Comune a tutti i curricula | 3 | Primo Semestre |
+| [LABORATORIO HCI](https://github.com/MrTartuf0/PGSI-notes/blob/year-1/HCI/lab_hci.md) | Comune a tutti i curricula | 3 | Primo Semestre |
 | LABORATORIO OPEN SOURCE | Comune a tutti i curricula | 3 | Primo Semestre |
 | LABORATORIO PROGRAMMAZIONE I | Comune a tutti i curricula | 3 | Primo Semestre |
 | MATEMATICA PER L'INFORMATICA | Comune a tutti i curricula | 6 | Primo Semestre |
 | PROGRAMMAZIONE I | Comune a tutti i curricula | 6 | Primo Semestre |
 | RETI DI COMPUTER ED INTERNET | Comune a tutti i curricula | 6 | Primo Semestre |
 | ALGORITMI E STRUTTURE DATI | Comune a tutti i curricula | 6 | Secondo Semestre |
-| BASI DI DATI | Comune a tutti i curricula | 6 | Secondo Semestre |
+| [BASI DI DATI](https://github.com/MrTartuf0/PGSI-notes/blob/year-1/Basi%20di%20Dati/basi_di_dati.md) | Comune a tutti i curricula | 6 | Secondo Semestre |
 | LAB. REALTA' VIRTUALE E REALTA' AUMENTATA I | Comune a tutti i curricula | 3 | Secondo Semestre |
 | LABORATORIO DI BASI DI DATI | Comune a tutti i curricula | 3 | Secondo Semestre |
 | LABORATORIO RETI | Comune a tutti i curricula | 3 | Secondo Semestre |

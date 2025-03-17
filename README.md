@@ -1,4 +1,4 @@
-# PSGI - Programmazione e Gestione di Sistemi Informatici
+# 💻 PSGI - Programmazione e Gestione di Sistemi Informatici
 
 Benvenuto nel repository degli appunti per il corso di **Programmazione e Gestione di Sistemi Informatici (PSGI)**.
 

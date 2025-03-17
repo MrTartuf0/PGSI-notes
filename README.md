@@ -23,7 +23,7 @@ Gli orari delle lezioni sono disponibili su [EasyAcademy](https://easyacademy.un
 ## Offerta Formativa
 L'offerta formativa per l'anno accademico 2024/25 è la seguente:
 
-### 1° Anno
+### [1° Anno](https://github.com/MrTartuf0/PGSI-notes/tree/year-1)
 | Insegnamento | Curriculum | CFU | Periodo |
 |--------------|-------------|-----|---------|
 | ELEMENTI DI ARCHITETTURA DEGLI ELABORATORI E SISTEMI OPERATIVI | Comune a tutti i curricula | 6 | Primo Semestre |
@@ -41,7 +41,7 @@ L'offerta formativa per l'anno accademico 2024/25 è la seguente:
 | LABORATORIO RETI | Comune a tutti i curricula | 3 | Secondo Semestre |
 | LINGUA INGLESE | Comune a tutti i curricula | 3 | Secondo Semestre |
 
-### 2° Anno
+### [2° Anno](https://github.com/MrTartuf0/PGSI-notes/tree/year-2)
 | Insegnamento | Curriculum | CFU | Periodo |
 |--------------|-------------|-----|---------|
 | CYBERSECURITY | Comune a tutti i curricula | 6 | Primo Semestre |
@@ -59,7 +59,7 @@ L'offerta formativa per l'anno accademico 2024/25 è la seguente:
 | LABORATORIO INGEGNERIA DEL SOFTWARE | Comune a tutti i curricula | 3 | Secondo Semestre |
 | LABORATORIO SISTEMI IOT | Comune a tutti i curricula | 3 | Secondo Semestre |
 
-### 3° Anno
+### [3° Anno](https://github.com/MrTartuf0/PGSI-notes/tree/year-3)
 | Insegnamento | Curriculum | CFU | Periodo |
 |--------------|-------------|-----|---------|
 | LABORATORIO DI PROGRAMMAZIONE WEB III | Comune a tutti i curricula | 3 | Secondo Semestre |

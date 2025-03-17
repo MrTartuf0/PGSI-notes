@@ -7,17 +7,17 @@ Il materiale è organizzato in rami (*branches*), ognuno dedicato a una specific
 
 ... da aggiungere
 
-## Calendario degli esami
+## 📆 Calendario degli esami
 Puoi trovare il calendario degli esami al seguente [link](https://www.dmi.unipg.it/didattica/programmazione-gestione-sistemi-informatici/calendario-esami).
 
-## Risorse di studio
+## 📚 Risorse di studio
 Questa è una lista delle risorse di studio per l'anno accademico 2024/25 disponibili su Unistudium:
 - [Risorse 2024/25](https://unistudium.unipg.it/unistudium/course/index.php?categoryid=4868)
 
 Sono disponibili anche le risorse dell'anno precedente, utili per ulteriori esercizi:
 - [Risorse 2023/24](https://unistudium.unipg.it/unistudium/course/index.php?categoryid=4785)
 
-## Orari delle lezioni
+## ⌚️ Orari delle lezioni
 Gli orari delle lezioni sono disponibili su [EasyAcademy](https://easyacademy.unipg.it/agendaweb/index.php?view=easycourse&_lang=it&include=corso). È consigliato esportare il calendario per comodità.
 
 ## Offerta Formativa
@@ -82,7 +82,7 @@ Questa repository sarà editata utilizzando Obsidian-Git. Di seguito le istruzio
 Se vuoi contribuire, sentiti libero di aprire una *pull request* o segnalare problemi nella sezione *issues* del repository.
 
 ## Licenza
-Questo materiale è condiviso sotto licenza MIT, sentiti libero di usarlo e modificarlo rispettando i termini della licenza.
+Questo materiale è condiviso sotto [licenza MIT](https://github.com/MrTartuf0/PGSI-notes/blob/main/LICENSE), sentiti libero di usarlo e modificarlo rispettando i termini della licenza.
 
 ---
 

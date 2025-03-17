@@ -10,7 +10,7 @@ Benvenuti nel repository delle note del primo anno del corso di Laurea in PGSI. 
 |--------------|-------------|-----|---------|
 | ELEMENTI DI ARCHITETTURA DEGLI ELABORATORI E SISTEMI OPERATIVI | Comune a tutti i curricula | 6 | Primo Semestre |
 | LABORATORIO ARCHITETTURA DEGLI ELABORATORI | Comune a tutti i curricula | 3 | Primo Semestre |
-| LABORATORIO HCI | Comune a tutti i curricula | 3 | Primo Semestre |
+| [LABORATORIO HCI](https://github.com/MrTartuf0/PGSI-notes/blob/year-1/hci/lab_hci.md) | Comune a tutti i curricula | 3 | Primo Semestre |
 | LABORATORIO OPEN SOURCE | Comune a tutti i curricula | 3 | Primo Semestre |
 | LABORATORIO PROGRAMMAZIONE I | Comune a tutti i curricula | 3 | Primo Semestre |
 | MATEMATICA PER L'INFORMATICA | Comune a tutti i curricula | 6 | Primo Semestre |

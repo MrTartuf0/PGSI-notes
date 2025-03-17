@@ -3,9 +3,7 @@
 Benvenuto nel repository degli appunti per il corso di **Programmazione e Gestione di Sistemi Informatici (PSGI)**.
 
 ## Struttura del repository
-Il materiale è organizzato in rami (*branches*), ognuno dedicato a una specifica parte del corso:
-
-... da aggiungere
+Il materiale è organizzato in rami (*branches*), ogni branch corrisponde all'anno di corso
 
 ## 📆 Calendario degli esami
 Puoi trovare il calendario degli esami al seguente [link](https://www.dmi.unipg.it/didattica/programmazione-gestione-sistemi-informatici/calendario-esami).
